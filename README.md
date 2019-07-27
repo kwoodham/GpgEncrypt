@@ -6,7 +6,7 @@ Encrypt and decrypt a file using GPG
 ## Prerequisites
 This plugin assumes that you have a working installation of GPG and have set up a keyring. I am not providing any guidance on that, as there are many tutorials available online.
 
-For convenience I am providing a copy of `gnugp.py` pulled from the tarball available at <https://pypi.org/project/python-gnupg/#files>. I have also included here a copy of [LICENSE.txt](./LICENSE.txt) for gnupg.py from that tarball as well.
+For convenience I am providing a copy of `gnugp.py` pulled from the tarball available at <https://pypi.org/project/python-gnupg/#files>. I have also included here a copy of [LICENSE.txt](./gnupg-LICENSE.txt) for gnupg.py from that tarball as well.
 
 These commands assume the default for `gnupghome`. If this is not the case for you, you may have to provide this in the initialization: `gpg = GPG()`.
 
