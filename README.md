@@ -1,7 +1,7 @@
-# GpgEncrypt
-Encrypt and decrypt a file using GPG
+# GpgEncrypt for fman
+Encrypt and decrypt a file using GPG through the fman plugin api
 
-**Note** This is my first plugin for fman - please let me know if you have issues.
+**Note** This is my first plugin for fman (<https://fman.io>) - please let me know if you have issues.
 
 ## Prerequisites
 This plugin assumes that you have a working installation of GPG and have set up a keyring. I am not providing any guidance on that, as there are many tutorials available online.
